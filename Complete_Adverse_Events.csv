@@ -1,0 +1,163 @@
+Patient_ID,Event_Date,Event_Description,Severity,Outcome
+P001,2022-06-17,Dizziness,Moderate,Fatal
+P001,2022-11-20,Dizziness,Mild,Fatal
+P005,2023-06-29,Dizziness,Moderate,Fatal
+P006,2022-05-07,Fever,Moderate,Fatal
+P006,2022-08-31,Nausea,Moderate,Recovered
+P007,2023-02-11,Dizziness,Mild,Not Recovered
+P008,2022-11-23,Fever,Severe,Recovered
+P009,2023-05-20,Fatigue,Severe,Not Recovered
+P010,2022-09-12,Nausea,Mild,Recovered
+P010,2022-07-17,Fatigue,Severe,Recovered
+P011,2023-05-03,Fatigue,Severe,Fatal
+P011,2023-05-10,Fatigue,Mild,Fatal
+P011,2023-07-08,Dizziness,Moderate,Not Recovered
+P012,2022-10-17,Nausea,Severe,Recovered
+P012,2023-08-04,Headache,Moderate,Recovered
+P013,2023-04-02,Headache,Mild,Not Recovered
+P013,2023-02-02,Fever,Severe,Fatal
+P014,2023-08-05,Fever,Severe,Recovered
+P014,2022-12-20,Nausea,Moderate,Fatal
+P014,2022-07-13,Headache,Mild,Not Recovered
+P016,2023-01-08,Headache,Severe,Recovered
+P016,2023-01-19,Nausea,Moderate,Fatal
+P017,2022-02-17,Dizziness,Moderate,Recovered
+P017,2022-05-25,Headache,Moderate,Recovered
+P018,2023-12-31,Nausea,Severe,Recovered
+P018,2023-06-12,Headache,Mild,Recovered
+P018,2023-09-30,Dizziness,Mild,Fatal
+P022,2022-11-29,Headache,Moderate,Recovered
+P022,2023-08-05,Headache,Mild,Not Recovered
+P022,2022-07-19,Dizziness,Mild,Fatal
+P023,2022-10-26,Fever,Mild,Recovered
+P023,2023-09-01,Dizziness,Severe,Recovered
+P023,2022-12-22,Fatigue,Severe,Not Recovered
+P024,2023-06-03,Fatigue,Moderate,Fatal
+P025,2023-10-25,Nausea,Moderate,Fatal
+P025,2023-09-04,Dizziness,Severe,Fatal
+P025,2022-08-07,Headache,Mild,Recovered
+P027,2023-12-18,Fatigue,Moderate,Recovered
+P027,2022-12-02,Dizziness,Moderate,Recovered
+P027,2022-11-19,Headache,Moderate,Not Recovered
+P028,2023-07-06,Fatigue,Moderate,Fatal
+P028,2022-01-13,Headache,Severe,Fatal
+P029,2022-05-14,Dizziness,Moderate,Recovered
+P029,2023-03-08,Fever,Severe,Not Recovered
+P029,2022-07-10,Dizziness,Mild,Not Recovered
+P031,2022-10-09,Dizziness,Moderate,Recovered
+P031,2022-10-31,Fatigue,Moderate,Fatal
+P032,2022-02-23,Dizziness,Severe,Not Recovered
+P032,2022-04-29,Nausea,Moderate,Recovered
+P033,2022-04-24,Headache,Severe,Not Recovered
+P033,2023-03-01,Headache,Severe,Fatal
+P033,2022-01-13,Fatigue,Moderate,Not Recovered
+P035,2022-03-21,Dizziness,Severe,Recovered
+P035,2022-10-26,Fever,Severe,Fatal
+P035,2023-01-19,Nausea,Mild,Recovered
+P036,2022-06-22,Dizziness,Moderate,Not Recovered
+P036,2022-09-20,Fever,Mild,Fatal
+P038,2023-03-15,Dizziness,Moderate,Fatal
+P038,2022-10-19,Fever,Moderate,Recovered
+P038,2023-10-17,Nausea,Severe,Fatal
+P039,2022-04-06,Nausea,Moderate,Not Recovered
+P039,2022-06-28,Headache,Moderate,Fatal
+P040,2023-12-04,Dizziness,Severe,Recovered
+P040,2023-11-20,Dizziness,Moderate,Fatal
+P040,2023-07-16,Nausea,Severe,Fatal
+P042,2022-09-12,Nausea,Severe,Fatal
+P043,2023-03-19,Dizziness,Mild,Not Recovered
+P043,2022-02-24,Dizziness,Severe,Not Recovered
+P043,2022-01-25,Fever,Moderate,Recovered
+P044,2023-07-09,Headache,Severe,Recovered
+P045,2023-03-17,Nausea,Moderate,Not Recovered
+P047,2023-02-07,Nausea,Moderate,Fatal
+P047,2024-01-01,Fever,Mild,Fatal
+P048,2023-05-01,Headache,Mild,Not Recovered
+P048,2022-07-31,Headache,Moderate,Not Recovered
+P048,2023-03-23,Nausea,Mild,Not Recovered
+P050,2022-12-20,Nausea,Moderate,Fatal
+P050,2022-06-17,Headache,Moderate,Not Recovered
+P050,2024-01-01,Fever,Severe,Not Recovered
+P051,2022-02-11,Headache,Moderate,Recovered
+P051,2023-11-20,Dizziness,Mild,Fatal
+P052,2023-04-20,Fever,Mild,Not Recovered
+P052,2023-12-07,Nausea,Severe,Not Recovered
+P052,2023-03-23,Dizziness,Mild,Recovered
+P053,2022-12-26,Dizziness,Severe,Recovered
+P053,2023-05-06,Nausea,Severe,Fatal
+P054,2023-04-06,Headache,Severe,Not Recovered
+P054,2022-01-17,Headache,Moderate,Recovered
+P054,2023-08-13,Headache,Moderate,Not Recovered
+P056,2022-08-25,Nausea,Severe,Recovered
+P057,2022-12-21,Fatigue,Severe,Not Recovered
+P057,2022-11-26,Fatigue,Moderate,Not Recovered
+P057,2023-06-09,Dizziness,Mild,Recovered
+P059,2022-11-08,Dizziness,Mild,Recovered
+P060,2022-11-15,Fatigue,Severe,Fatal
+P060,2022-10-01,Nausea,Moderate,Fatal
+P063,2022-06-25,Fatigue,Mild,Not Recovered
+P063,2022-03-29,Fever,Mild,Not Recovered
+P063,2022-04-10,Dizziness,Severe,Not Recovered
+P064,2023-09-02,Fatigue,Mild,Not Recovered
+P065,2022-09-09,Fever,Severe,Fatal
+P066,2022-11-03,Fever,Severe,Not Recovered
+P066,2022-04-08,Fatigue,Mild,Fatal
+P066,2022-02-19,Nausea,Moderate,Not Recovered
+P067,2022-05-27,Headache,Moderate,Not Recovered
+P068,2022-02-22,Nausea,Severe,Fatal
+P068,2023-11-15,Fatigue,Mild,Not Recovered
+P068,2023-01-30,Headache,Mild,Not Recovered
+P069,2022-09-01,Nausea,Moderate,Recovered
+P069,2022-09-16,Fatigue,Mild,Recovered
+P070,2022-08-23,Fever,Moderate,Recovered
+P070,2022-01-19,Fatigue,Moderate,Not Recovered
+P070,2022-02-17,Dizziness,Moderate,Fatal
+P071,2023-10-29,Headache,Moderate,Not Recovered
+P071,2022-07-17,Dizziness,Severe,Fatal
+P071,2022-04-08,Fatigue,Severe,Recovered
+P072,2023-11-22,Fatigue,Mild,Fatal
+P072,2022-10-10,Dizziness,Moderate,Fatal
+P073,2023-06-24,Nausea,Moderate,Not Recovered
+P074,2022-05-01,Fever,Mild,Not Recovered
+P075,2022-04-15,Headache,Severe,Recovered
+P076,2022-10-03,Dizziness,Moderate,Recovered
+P077,2022-09-15,Nausea,Moderate,Fatal
+P077,2022-02-17,Fever,Severe,Not Recovered
+P077,2022-01-26,Nausea,Mild,Recovered
+P078,2022-06-27,Headache,Mild,Recovered
+P078,2023-08-07,Fatigue,Severe,Not Recovered
+P079,2022-08-19,Nausea,Severe,Recovered
+P079,2023-01-02,Fatigue,Moderate,Not Recovered
+P079,2022-01-01,Headache,Mild,Not Recovered
+P080,2023-09-16,Headache,Severe,Fatal
+P080,2022-12-28,Nausea,Moderate,Fatal
+P081,2023-11-17,Fever,Mild,Not Recovered
+P081,2022-08-18,Dizziness,Mild,Not Recovered
+P082,2023-01-01,Dizziness,Moderate,Recovered
+P082,2022-07-15,Fatigue,Severe,Recovered
+P082,2022-03-29,Nausea,Mild,Not Recovered
+P083,2022-01-07,Fever,Mild,Fatal
+P085,2023-02-12,Fatigue,Severe,Recovered
+P086,2022-07-06,Headache,Mild,Not Recovered
+P086,2022-02-26,Fever,Severe,Recovered
+P086,2023-08-16,Nausea,Moderate,Not Recovered
+P087,2023-08-14,Fever,Mild,Not Recovered
+P089,2023-12-25,Fatigue,Moderate,Fatal
+P089,2023-01-11,Nausea,Severe,Recovered
+P090,2023-05-20,Dizziness,Mild,Recovered
+P090,2022-07-12,Headache,Severe,Not Recovered
+P091,2022-09-18,Nausea,Moderate,Fatal
+P091,2022-11-05,Dizziness,Severe,Recovered
+P091,2023-08-20,Dizziness,Severe,Not Recovered
+P093,2022-01-25,Nausea,Moderate,Fatal
+P094,2022-10-16,Dizziness,Severe,Fatal
+P095,2022-06-21,Fatigue,Moderate,Not Recovered
+P095,2022-02-13,Nausea,Moderate,Recovered
+P095,2022-10-29,Headache,Mild,Recovered
+P096,2023-11-22,Fever,Severe,Fatal
+P096,2023-05-04,Dizziness,Severe,Not Recovered
+P098,2022-07-18,Headache,Severe,Fatal
+P099,2022-06-19,Headache,Severe,Recovered
+P100,2022-04-17,Nausea,Severe,Fatal
+P100,2023-01-28,Dizziness,Moderate,Recovered
+P100,2023-12-02,Headache,Moderate,Recovered

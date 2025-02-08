@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,Enrollment_Date,Treatment_Group
+P001,43,Female,2023-01-25,Drug B
+P002,35,Male,2022-07-10,Drug B
+P003,18,Female,2023-07-28,Drug A
+P004,36,Male,2022-03-13,Placebo
+P005,72,Male,2023-07-29,Drug B
+P006,43,Male,2023-06-05,Drug A
+P007,50,Female,2023-04-18,Drug A
+P008,22,Male,2023-02-08,Placebo
+P009,24,Female,2023-07-20,Drug A
+P010,24,Female,2022-08-25,Drug B
+P011,18,Female,2022-05-27,Placebo
+P012,29,Female,2023-01-31,Placebo
+P013,25,Female,2022-02-07,Placebo
+P014,18,Female,2022-04-19,Drug A
+P015,58,Male,2023-02-15,Placebo
+P016,65,Female,2023-04-09,Drug A
+P017,33,Male,2022-02-24,Drug B
+P018,75,Male,2022-02-13,Placebo
+P019,65,Male,2023-07-14,Placebo
+P020,28,Female,2023-09-27,Placebo
+P021,56,Male,2022-08-24,Drug B
+P022,33,Female,2023-11-11,Drug B
+P023,27,Male,2022-12-28,Drug A
+P024,29,Male,2022-10-10,Drug B
+P025,53,Female,2022-01-11,Placebo
+P026,43,Female,2023-06-10,Drug B
+P027,49,Female,2022-08-13,Drug A
+P028,18,Female,2022-07-24,Drug A
+P029,62,Female,2022-04-19,Placebo
+P030,18,Female,2022-03-18,Drug B
+P031,45,Male,2023-09-24,Placebo
+P032,31,Male,2022-10-05,Drug B
+P033,32,Female,2022-01-11,Placebo
+P034,65,Female,2023-06-20,Placebo
+P035,71,Female,2022-04-10,Placebo
+P036,33,Male,2022-03-05,Placebo
+P037,28,Female,2023-12-26,Placebo
+P038,54,Male,2022-09-14,Placebo
+P039,73,Male,2023-08-30,Placebo
+P040,43,Female,2022-04-10,Drug A
+P041,25,Female,2023-05-21,Drug A
+P042,53,Male,2023-05-05,Drug A
+P043,68,Male,2022-10-14,Placebo
+P044,65,Female,2022-01-19,Drug A
+P045,72,Male,2023-06-18,Placebo
+P046,55,Male,2022-03-23,Drug A
+P047,22,Male,2023-07-25,Drug A
+P048,54,Female,2023-08-18,Placebo
+P049,57,Male,2023-04-15,Drug A
+P050,23,Male,2023-05-03,Placebo
+P051,53,Female,2022-10-15,Placebo
+P052,29,Female,2023-12-25,Drug B
+P053,60,Male,2023-03-15,Drug A
+P054,45,Male,2022-03-01,Drug A
+P055,29,Male,2022-09-25,Drug B
+P056,50,Male,2023-12-15,Drug A
+P057,27,Male,2023-12-21,Drug A
+P058,41,Female,2023-08-23,Drug A
+P059,41,Female,2022-07-20,Drug A
+P060,21,Male,2023-10-23,Drug A
+P061,43,Male,2023-03-29,Drug A
+P062,36,Male,2023-12-28,Drug B
+P063,41,Male,2022-02-13,Drug A
+P064,49,Male,2023-11-03,Placebo
+P065,63,Female,2022-04-13,Drug A
+P066,66,Female,2022-11-15,Drug B
+P067,24,Female,2023-11-16,Placebo
+P068,30,Male,2022-07-28,Drug B
+P069,30,Male,2023-01-04,Drug A
+P070,74,Male,2023-07-31,Drug B
+P071,52,Male,2023-10-24,Drug A
+P072,39,Female,2023-09-20,Drug B
+P073,39,Male,2022-10-31,Drug A
+P074,47,Female,2023-08-27,Placebo
+P075,52,Female,2023-04-04,Placebo
+P076,45,Female,2022-08-27,Drug B
+P077,38,Male,2023-04-05,Placebo
+P078,48,Male,2022-04-23,Drug A
+P079,25,Male,2022-12-23,Drug B
+P080,62,Female,2023-11-27,Drug A
+P081,33,Male,2023-04-23,Placebo
+P082,75,Male,2023-08-23,Drug A
+P083,42,Male,2022-10-19,Placebo
+P084,75,Female,2022-10-15,Drug A
+P085,46,Female,2023-12-15,Drug B
+P086,62,Female,2022-10-30,Drug A
+P087,29,Male,2022-07-12,Placebo
+P088,56,Female,2023-08-22,Placebo
+P089,34,Male,2022-01-29,Drug A
+P090,36,Female,2022-05-07,Drug A
+P091,34,Male,2023-12-04,Drug B
+P092,68,Female,2023-12-29,Placebo
+P093,27,Male,2022-10-24,Drug B
+P094,69,Female,2022-11-06,Drug A
+P095,59,Female,2023-07-12,Placebo
+P096,52,Male,2022-06-11,Drug B
+P097,30,Female,2023-01-17,Placebo
+P098,67,Female,2023-02-17,Drug B
+P099,40,Male,2022-09-29,Drug B
+P100,55,Female,2023-10-13,Drug A

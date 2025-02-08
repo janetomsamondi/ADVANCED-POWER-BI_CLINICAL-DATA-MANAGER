@@ -1,0 +1,282 @@
+Patient_ID,Visit_Date,Lab_Test,Lab_Result,Reference_Range
+P001,2022-04-11,White Blood Cell Count,11.5,10.0-15.0
+P002,2023-09-21,Platelet Count,13.19,10.0-15.0
+P003,2022-04-28,Hemoglobin,12.96,10.0-15.0
+P003,2023-05-29,Platelet Count,12.79,10.0-15.0
+P003,2022-04-07,Hemoglobin,10.06,10.0-15.0
+P004,2023-11-08,White Blood Cell Count,13.2,10.0-15.0
+P004,2023-10-23,Platelet Count,10.05,10.0-15.0
+P005,2022-07-16,White Blood Cell Count,10.26,10.0-15.0
+P006,2023-04-06,White Blood Cell Count,13.28,10.0-15.0
+P006,2022-01-07,White Blood Cell Count,14.23,10.0-15.0
+P006,2023-09-08,Platelet Count,14.51,10.0-15.0
+P007,2023-02-24,White Blood Cell Count,13.76,10.0-15.0
+P007,2022-10-11,Hemoglobin,13.13,10.0-15.0
+P008,2023-11-17,Hemoglobin,10.88,10.0-15.0
+P009,2023-05-02,Platelet Count,10.31,10.0-15.0
+P010,2023-05-29,White Blood Cell Count,13.56,10.0-15.0
+P010,2023-06-08,White Blood Cell Count,11.14,10.0-15.0
+P010,2022-10-17,White Blood Cell Count,12.1,10.0-15.0
+P010,2022-06-17,Platelet Count,13.17,10.0-15.0
+P011,2023-10-02,White Blood Cell Count,12.26,10.0-15.0
+P011,2023-12-14,White Blood Cell Count,12.75,10.0-15.0
+P011,2022-04-24,White Blood Cell Count,13.25,10.0-15.0
+P011,2023-04-18,Hemoglobin,12.19,10.0-15.0
+P012,2023-05-31,Hemoglobin,14.97,10.0-15.0
+P013,2023-10-23,Hemoglobin,13.24,10.0-15.0
+P014,2022-12-05,Platelet Count,11.52,10.0-15.0
+P015,2022-09-25,Platelet Count,12.37,10.0-15.0
+P015,2023-09-15,Platelet Count,11.75,10.0-15.0
+P016,2023-12-05,White Blood Cell Count,11.22,10.0-15.0
+P016,2023-11-30,Platelet Count,12.59,10.0-15.0
+P016,2022-08-24,White Blood Cell Count,13.39,10.0-15.0
+P016,2022-05-17,Hemoglobin,14.71,10.0-15.0
+P017,2022-10-19,White Blood Cell Count,11.17,10.0-15.0
+P017,2022-06-05,White Blood Cell Count,12.83,10.0-15.0
+P017,2023-08-31,Platelet Count,11.66,10.0-15.0
+P017,2022-09-08,Platelet Count,12.85,10.0-15.0
+P017,2023-05-23,Platelet Count,14.2,10.0-15.0
+P018,2023-02-15,Hemoglobin,10.14,10.0-15.0
+P019,2022-09-08,White Blood Cell Count,13.74,10.0-15.0
+P019,2022-04-21,White Blood Cell Count,10.42,10.0-15.0
+P019,2022-09-04,White Blood Cell Count,13.11,10.0-15.0
+P019,2023-02-13,Hemoglobin,13.03,10.0-15.0
+P019,2023-03-19,Hemoglobin,12.35,10.0-15.0
+P020,2022-11-20,Platelet Count,11.01,10.0-15.0
+P021,2022-12-30,Platelet Count,11.53,10.0-15.0
+P021,2022-12-13,Platelet Count,14.35,10.0-15.0
+P021,2023-03-06,White Blood Cell Count,12.75,10.0-15.0
+P021,2023-05-21,Hemoglobin,10.94,10.0-15.0
+P021,2023-12-18,Hemoglobin,11.72,10.0-15.0
+P022,2022-08-22,White Blood Cell Count,12.74,10.0-15.0
+P023,2023-05-07,White Blood Cell Count,11.27,10.0-15.0
+P023,2022-08-13,White Blood Cell Count,13.85,10.0-15.0
+P023,2023-09-04,Hemoglobin,10.37,10.0-15.0
+P024,2023-09-29,Hemoglobin,10.63,10.0-15.0
+P024,2023-07-28,Hemoglobin,13.46,10.0-15.0
+P025,2022-03-03,Platelet Count,13.41,10.0-15.0
+P025,2022-04-20,Platelet Count,10.14,10.0-15.0
+P026,2023-05-07,White Blood Cell Count,11.28,10.0-15.0
+P027,2022-11-08,White Blood Cell Count,13.97,10.0-15.0
+P028,2022-08-17,Platelet Count,10.82,10.0-15.0
+P028,2023-09-03,Platelet Count,13.47,10.0-15.0
+P028,2022-08-26,Platelet Count,10.32,10.0-15.0
+P029,2023-08-02,Platelet Count,13.02,10.0-15.0
+P029,2022-03-07,Platelet Count,14.38,10.0-15.0
+P030,2023-01-21,Platelet Count,13.15,10.0-15.0
+P030,2022-12-12,Hemoglobin,13.27,10.0-15.0
+P031,2023-10-10,Hemoglobin,13.48,10.0-15.0
+P031,2022-07-28,Hemoglobin,11.81,10.0-15.0
+P032,2022-07-27,Hemoglobin,11.76,10.0-15.0
+P032,2022-11-25,Hemoglobin,13.53,10.0-15.0
+P032,2023-01-20,Hemoglobin,12.49,10.0-15.0
+P033,2022-08-04,Platelet Count,13.92,10.0-15.0
+P033,2022-08-16,White Blood Cell Count,11.45,10.0-15.0
+P033,2023-10-13,White Blood Cell Count,10.93,10.0-15.0
+P034,2022-02-15,Platelet Count,12.15,10.0-15.0
+P035,2022-04-17,Hemoglobin,10.06,10.0-15.0
+P035,2023-10-01,White Blood Cell Count,14.19,10.0-15.0
+P035,2022-10-25,Platelet Count,10.46,10.0-15.0
+P035,2022-07-18,Hemoglobin,13.24,10.0-15.0
+P035,2022-02-23,Hemoglobin,11.47,10.0-15.0
+P036,2023-12-29,Platelet Count,13.87,10.0-15.0
+P036,2023-09-15,White Blood Cell Count,13.02,10.0-15.0
+P036,2023-01-13,Platelet Count,14.22,10.0-15.0
+P036,2022-05-07,White Blood Cell Count,13.51,10.0-15.0
+P037,2022-06-04,Hemoglobin,12.54,10.0-15.0
+P037,2023-09-18,White Blood Cell Count,14.9,10.0-15.0
+P037,2022-10-16,White Blood Cell Count,12.32,10.0-15.0
+P037,2022-06-06,White Blood Cell Count,10.15,10.0-15.0
+P037,2023-04-30,Hemoglobin,14.21,10.0-15.0
+P038,2023-08-31,Platelet Count,14.94,10.0-15.0
+P038,2023-04-15,White Blood Cell Count,10.12,10.0-15.0
+P038,2023-11-28,White Blood Cell Count,11.38,10.0-15.0
+P038,2023-11-25,White Blood Cell Count,13.87,10.0-15.0
+P038,2022-02-18,Platelet Count,12.02,10.0-15.0
+P039,2022-07-27,Platelet Count,13.14,10.0-15.0
+P039,2023-05-08,Platelet Count,11.68,10.0-15.0
+P040,2023-08-02,White Blood Cell Count,11.41,10.0-15.0
+P040,2023-10-07,Hemoglobin,14.84,10.0-15.0
+P041,2022-07-08,White Blood Cell Count,13.26,10.0-15.0
+P041,2023-04-22,Hemoglobin,14.89,10.0-15.0
+P042,2022-10-07,White Blood Cell Count,10.96,10.0-15.0
+P042,2023-02-09,Hemoglobin,11.17,10.0-15.0
+P043,2023-01-11,Platelet Count,14.85,10.0-15.0
+P043,2023-09-10,Platelet Count,12.65,10.0-15.0
+P043,2022-05-25,White Blood Cell Count,10.0,10.0-15.0
+P043,2022-02-02,White Blood Cell Count,13.58,10.0-15.0
+P044,2023-11-29,Platelet Count,11.27,10.0-15.0
+P044,2023-02-22,Platelet Count,14.98,10.0-15.0
+P044,2022-03-22,Hemoglobin,10.89,10.0-15.0
+P044,2022-11-09,Platelet Count,13.36,10.0-15.0
+P044,2023-02-09,Hemoglobin,10.48,10.0-15.0
+P045,2022-10-05,White Blood Cell Count,10.26,10.0-15.0
+P045,2023-01-15,Hemoglobin,11.99,10.0-15.0
+P045,2022-10-29,White Blood Cell Count,10.71,10.0-15.0
+P045,2022-06-12,Hemoglobin,10.11,10.0-15.0
+P046,2022-11-14,Platelet Count,13.84,10.0-15.0
+P046,2022-07-01,White Blood Cell Count,12.92,10.0-15.0
+P046,2022-10-10,White Blood Cell Count,11.97,10.0-15.0
+P046,2022-04-07,White Blood Cell Count,12.35,10.0-15.0
+P047,2022-04-29,Platelet Count,12.6,10.0-15.0
+P047,2022-03-28,White Blood Cell Count,10.41,10.0-15.0
+P047,2023-06-26,Platelet Count,13.43,10.0-15.0
+P048,2022-06-19,White Blood Cell Count,14.99,10.0-15.0
+P048,2023-02-05,Platelet Count,13.39,10.0-15.0
+P049,2022-12-09,Hemoglobin,10.53,10.0-15.0
+P049,2023-05-01,Hemoglobin,11.47,10.0-15.0
+P049,2022-12-13,Hemoglobin,11.48,10.0-15.0
+P049,2023-11-08,Hemoglobin,13.25,10.0-15.0
+P050,2023-06-19,White Blood Cell Count,13.69,10.0-15.0
+P050,2022-01-02,White Blood Cell Count,13.56,10.0-15.0
+P050,2023-12-06,Platelet Count,12.72,10.0-15.0
+P050,2022-11-08,Hemoglobin,11.54,10.0-15.0
+P050,2023-09-14,Platelet Count,10.27,10.0-15.0
+P051,2023-04-29,Hemoglobin,11.48,10.0-15.0
+P052,2023-01-31,Hemoglobin,12.37,10.0-15.0
+P052,2023-05-28,Hemoglobin,10.33,10.0-15.0
+P052,2023-03-15,Hemoglobin,10.51,10.0-15.0
+P052,2023-08-28,White Blood Cell Count,14.54,10.0-15.0
+P052,2022-05-22,Hemoglobin,14.59,10.0-15.0
+P053,2022-07-29,Platelet Count,14.52,10.0-15.0
+P053,2022-12-25,White Blood Cell Count,12.7,10.0-15.0
+P053,2023-09-27,White Blood Cell Count,14.88,10.0-15.0
+P054,2023-04-21,Platelet Count,14.57,10.0-15.0
+P054,2023-10-04,Platelet Count,13.71,10.0-15.0
+P054,2022-03-05,White Blood Cell Count,11.02,10.0-15.0
+P054,2022-01-25,Hemoglobin,14.94,10.0-15.0
+P054,2023-06-17,Hemoglobin,10.13,10.0-15.0
+P055,2023-10-23,Platelet Count,12.33,10.0-15.0
+P056,2022-01-30,Hemoglobin,14.36,10.0-15.0
+P057,2022-03-22,White Blood Cell Count,14.69,10.0-15.0
+P057,2022-09-05,Hemoglobin,12.15,10.0-15.0
+P057,2023-09-01,Hemoglobin,10.47,10.0-15.0
+P058,2022-05-13,White Blood Cell Count,10.34,10.0-15.0
+P058,2023-12-20,White Blood Cell Count,12.06,10.0-15.0
+P058,2022-05-06,Platelet Count,14.68,10.0-15.0
+P058,2023-07-26,White Blood Cell Count,12.53,10.0-15.0
+P058,2023-08-01,White Blood Cell Count,10.06,10.0-15.0
+P059,2022-05-16,Platelet Count,13.88,10.0-15.0
+P059,2023-11-01,White Blood Cell Count,11.68,10.0-15.0
+P059,2023-10-05,Hemoglobin,11.13,10.0-15.0
+P059,2022-12-15,Platelet Count,12.97,10.0-15.0
+P060,2023-05-31,Hemoglobin,13.4,10.0-15.0
+P060,2023-10-04,Platelet Count,12.42,10.0-15.0
+P060,2023-10-05,Platelet Count,11.08,10.0-15.0
+P061,2023-03-08,Hemoglobin,14.09,10.0-15.0
+P061,2023-09-10,Hemoglobin,10.82,10.0-15.0
+P061,2023-04-16,Hemoglobin,13.01,10.0-15.0
+P062,2022-05-03,Platelet Count,11.9,10.0-15.0
+P062,2022-02-28,White Blood Cell Count,14.67,10.0-15.0
+P062,2022-12-23,Hemoglobin,11.57,10.0-15.0
+P062,2023-02-14,Hemoglobin,14.46,10.0-15.0
+P062,2022-04-17,Platelet Count,10.84,10.0-15.0
+P063,2022-07-07,White Blood Cell Count,11.92,10.0-15.0
+P063,2022-01-11,White Blood Cell Count,13.11,10.0-15.0
+P063,2022-12-06,Platelet Count,11.13,10.0-15.0
+P064,2022-05-25,White Blood Cell Count,10.43,10.0-15.0
+P064,2022-02-02,White Blood Cell Count,13.87,10.0-15.0
+P064,2022-02-27,Hemoglobin,12.72,10.0-15.0
+P064,2023-04-14,Platelet Count,13.91,10.0-15.0
+P064,2023-07-10,Platelet Count,10.14,10.0-15.0
+P065,2023-11-26,Hemoglobin,11.09,10.0-15.0
+P065,2022-01-24,Platelet Count,11.07,10.0-15.0
+P065,2023-06-06,White Blood Cell Count,14.69,10.0-15.0
+P065,2022-07-01,Platelet Count,10.96,10.0-15.0
+P066,2022-05-05,Hemoglobin,10.66,10.0-15.0
+P067,2023-03-02,Platelet Count,13.32,10.0-15.0
+P067,2022-11-23,Hemoglobin,10.81,10.0-15.0
+P068,2022-06-27,Platelet Count,10.28,10.0-15.0
+P068,2023-01-21,Hemoglobin,10.23,10.0-15.0
+P068,2022-04-21,Hemoglobin,13.86,10.0-15.0
+P068,2023-04-30,Hemoglobin,12.04,10.0-15.0
+P068,2023-12-06,Hemoglobin,12.51,10.0-15.0
+P069,2023-08-21,Hemoglobin,12.29,10.0-15.0
+P069,2023-04-16,Hemoglobin,13.69,10.0-15.0
+P069,2022-09-09,White Blood Cell Count,12.55,10.0-15.0
+P069,2022-01-31,Platelet Count,14.32,10.0-15.0
+P070,2022-02-27,Platelet Count,10.16,10.0-15.0
+P070,2023-03-12,Platelet Count,11.49,10.0-15.0
+P070,2023-04-19,Hemoglobin,14.12,10.0-15.0
+P071,2022-01-14,White Blood Cell Count,12.53,10.0-15.0
+P072,2022-10-07,Hemoglobin,12.03,10.0-15.0
+P073,2023-12-02,White Blood Cell Count,13.51,10.0-15.0
+P073,2022-01-15,Platelet Count,13.8,10.0-15.0
+P073,2023-06-13,White Blood Cell Count,12.16,10.0-15.0
+P073,2023-04-22,Platelet Count,11.79,10.0-15.0
+P073,2022-04-16,Hemoglobin,14.98,10.0-15.0
+P074,2022-04-26,Hemoglobin,12.5,10.0-15.0
+P074,2022-03-09,Hemoglobin,11.91,10.0-15.0
+P074,2023-02-17,Hemoglobin,13.85,10.0-15.0
+P074,2023-09-22,Hemoglobin,14.91,10.0-15.0
+P075,2023-08-23,Hemoglobin,12.47,10.0-15.0
+P075,2022-12-13,White Blood Cell Count,10.8,10.0-15.0
+P075,2022-10-22,Hemoglobin,11.74,10.0-15.0
+P076,2023-01-21,Platelet Count,12.31,10.0-15.0
+P076,2023-08-11,White Blood Cell Count,13.69,10.0-15.0
+P076,2022-11-11,Hemoglobin,13.07,10.0-15.0
+P076,2023-05-11,Hemoglobin,13.39,10.0-15.0
+P076,2022-09-03,Hemoglobin,14.0,10.0-15.0
+P077,2023-04-12,Hemoglobin,10.01,10.0-15.0
+P077,2023-08-05,Platelet Count,12.86,10.0-15.0
+P078,2022-10-21,Hemoglobin,10.59,10.0-15.0
+P078,2023-10-18,Hemoglobin,11.9,10.0-15.0
+P078,2022-01-09,Platelet Count,13.61,10.0-15.0
+P079,2022-01-16,Platelet Count,12.42,10.0-15.0
+P079,2022-02-09,Hemoglobin,11.99,10.0-15.0
+P079,2023-02-23,Hemoglobin,14.99,10.0-15.0
+P080,2022-02-21,Hemoglobin,13.0,10.0-15.0
+P081,2022-01-09,Hemoglobin,13.22,10.0-15.0
+P082,2023-03-11,White Blood Cell Count,10.83,10.0-15.0
+P082,2022-08-17,Platelet Count,11.24,10.0-15.0
+P082,2023-10-18,Hemoglobin,10.43,10.0-15.0
+P083,2022-10-12,White Blood Cell Count,13.74,10.0-15.0
+P083,2023-12-30,Platelet Count,11.28,10.0-15.0
+P083,2022-12-14,Platelet Count,13.54,10.0-15.0
+P083,2023-01-25,Hemoglobin,13.91,10.0-15.0
+P084,2022-07-18,White Blood Cell Count,12.68,10.0-15.0
+P085,2022-11-15,Hemoglobin,13.41,10.0-15.0
+P085,2023-07-29,Platelet Count,13.75,10.0-15.0
+P085,2023-10-26,Platelet Count,12.55,10.0-15.0
+P085,2023-05-04,Platelet Count,13.96,10.0-15.0
+P085,2023-01-10,Hemoglobin,11.66,10.0-15.0
+P086,2023-01-05,White Blood Cell Count,14.69,10.0-15.0
+P087,2023-12-28,Hemoglobin,10.45,10.0-15.0
+P088,2023-10-10,Hemoglobin,11.68,10.0-15.0
+P089,2023-10-03,Platelet Count,10.87,10.0-15.0
+P089,2022-10-12,White Blood Cell Count,14.67,10.0-15.0
+P089,2022-05-17,Hemoglobin,11.34,10.0-15.0
+P089,2022-10-14,White Blood Cell Count,13.14,10.0-15.0
+P090,2022-02-17,Hemoglobin,10.66,10.0-15.0
+P091,2022-12-12,Hemoglobin,13.72,10.0-15.0
+P092,2022-11-15,White Blood Cell Count,14.49,10.0-15.0
+P092,2022-04-21,Platelet Count,10.72,10.0-15.0
+P092,2023-12-28,White Blood Cell Count,11.25,10.0-15.0
+P093,2023-11-15,Hemoglobin,10.57,10.0-15.0
+P094,2023-12-22,White Blood Cell Count,13.37,10.0-15.0
+P094,2022-08-19,White Blood Cell Count,13.89,10.0-15.0
+P094,2023-02-10,Hemoglobin,13.61,10.0-15.0
+P094,2022-04-24,Platelet Count,13.73,10.0-15.0
+P095,2023-10-13,Hemoglobin,13.17,10.0-15.0
+P095,2023-08-01,Hemoglobin,14.97,10.0-15.0
+P095,2023-10-27,White Blood Cell Count,14.34,10.0-15.0
+P095,2022-01-11,Platelet Count,12.03,10.0-15.0
+P096,2023-12-13,Hemoglobin,12.01,10.0-15.0
+P096,2022-07-03,Platelet Count,14.63,10.0-15.0
+P096,2022-01-17,Hemoglobin,14.32,10.0-15.0
+P096,2023-05-31,Platelet Count,13.36,10.0-15.0
+P097,2023-10-01,Hemoglobin,14.77,10.0-15.0
+P097,2022-10-18,Hemoglobin,14.49,10.0-15.0
+P097,2023-06-07,Hemoglobin,13.05,10.0-15.0
+P097,2023-07-31,Hemoglobin,12.96,10.0-15.0
+P098,2022-12-27,Hemoglobin,11.29,10.0-15.0
+P098,2023-11-28,Hemoglobin,11.63,10.0-15.0
+P098,2023-07-07,White Blood Cell Count,12.18,10.0-15.0
+P099,2022-10-12,White Blood Cell Count,12.43,10.0-15.0
+P099,2023-02-15,Platelet Count,13.84,10.0-15.0
+P099,2022-02-19,Platelet Count,11.2,10.0-15.0
+P100,2023-05-01,White Blood Cell Count,14.82,10.0-15.0
+P100,2022-09-12,White Blood Cell Count,10.02,10.0-15.0
+P100,2023-02-05,White Blood Cell Count,10.31,10.0-15.0
+P100,2023-09-04,Hemoglobin,14.25,10.0-15.0
+P100,2022-08-23,White Blood Cell Count,13.11,10.0-15.0
